@@ -1,0 +1,1 @@
+C:\Users\edgar\Desktop\projet_rust\rust_projet\target\debug\common.exe: C:\Users\edgar\Desktop\projet_rust\rust_projet\common\src\main.rs
